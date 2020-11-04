@@ -1,6 +1,7 @@
 This project is using expo-cli
-see https://docs.expo.io/ for more infor
+see https://docs.expo.io/ for more information
 
+To start:
 1. npm i
 2. npm start
 
